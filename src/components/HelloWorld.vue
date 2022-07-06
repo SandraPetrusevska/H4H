@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
   </div>
   <div id="app">
+    <h2>Response from backend is:</h2>
   {{ info }}
   </div>
 </template>
