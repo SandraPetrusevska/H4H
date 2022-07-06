@@ -5,6 +5,7 @@
   <p>New paragraph</p>
   <hr\>
   <div id="app">
+    <h2>Response from backend is:</h2>
   {{ info }}
   </div>
 </template>
