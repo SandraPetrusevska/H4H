@@ -2,7 +2,10 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
+  <p>New paragraph</p>
+  <hr\>
   <div id="app">
+    <h2>Response from backend is:</h2>
   {{ info }}
   </div>
 </template>
