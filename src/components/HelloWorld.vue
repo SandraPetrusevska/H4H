@@ -2,6 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
+  <p>New paragraph</p>
+  <hr\>
   <div id="app">
   {{ info }}
   </div>
